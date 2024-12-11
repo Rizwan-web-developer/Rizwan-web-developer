@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I Am Muhammad Rizwan.; AI Chatbot Developer. &; Front End Developer.;&font=arial&weight=100&size=30&duration=1800&pause=2000&color=#0400ff&width=435&height=65 - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I Am Muhammad Rizwan.; AI+Chatbot+Developer.; Front+End+Developer.;&font=arial&weight=100&size=30&duration=1800&pause=2000&color=#0400ff&width=435&height=65 - README Typing SVG">
 </p>
 
 
