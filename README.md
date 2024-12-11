@@ -1,10 +1,34 @@
-![final hi](https://github.com/user-attachments/assets/d63c1c4d-8c42-4a09-ab11-2091f88ab58e
-)
-<h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwan-web-developer&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan-web-developer" /> </p>
+<h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I Am Muhammad Rizwan.; AI Chatbot Developer. &; Front End Developer.;&font=arial&weight=100&size=30&duration=1800&pause=2000&color=#0400ff&width=435&height=65 - README Typing SVG">
+</p>
+
+
+
+
+<h3 align="center"> Proffesional frontend developer from Pakistan</h3>
+<img align="right" alt="Coding" width="350"  style="border-radius:20px;"
+	src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+## About Me 👨‍💻
+  I'm an AI Chatbot and Web Developer with 2 Months  of experience in web development and AI Chatbot development.
+
+  - 🚀 **Specializations**: AI Chatbots 🤖, Front end Development,
+  - 🧠 **Technologies**:  JavaScript,
+  - 💼 **Current Focus**: Chatbot development, Integrating AI into real-world applications
+
+  ## 💡 Skills
+  - **Web Development**: HTML, CSS, JavaScript, 
+<br><br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<hr>
+<img align="right" alt="Coding" width="380"  style="border-radius:20px;"
+	src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="500"/><br>
+<div align ="left">
+
+
 
 - 🔭 I’m currently working on **personal website**
 
@@ -15,9 +39,15 @@
 - ⚡ Fun fact **I Am Funny**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-rizwan-268909338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-rizwan-268909338/" height="30" width="40" /></a>
 </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
