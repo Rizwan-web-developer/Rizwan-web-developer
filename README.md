@@ -10,7 +10,7 @@
 
 <h3 align="center"> Proffesional frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="350"  style="border-radius:20px;"
-	src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+	src="![rizwan](https://github.com/user-attachments/assets/e12530b0-a6ba-428d-adf9-9bf8dcf24f3a)"/>
 
 ## About Me 👨‍💻
   I'm an AI Chatbot and Web Developer with 2 Months  of experience in web development and AI Chatbot development.
