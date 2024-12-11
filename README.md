@@ -18,6 +18,9 @@
   - 🚀 **Specializations**: AI Chatbots 🤖, Front end Development,
   - 🧠 **Technologies**:  JavaScript,
   - 💼 **Current Focus**: Chatbot development, Integrating AI into real-world applications
+  - 
+<br>
+<br>
 
   ## 💡 Skills
    **Web Development**: HTML, CSS, JavaScript,
