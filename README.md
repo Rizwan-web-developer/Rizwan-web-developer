@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwan-web-developer&show_icons=true&locale=en" alt="rizwan-web-developer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwan-web-developer&" alt="rizwan-web-developer" /></p>
+
 
 
 
