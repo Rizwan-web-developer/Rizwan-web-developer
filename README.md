@@ -10,7 +10,7 @@
 
 <h3 align="center"> Proffesional frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="350"  style="border-radius:20px;"
-	src="![rizwan](https://github.com/user-attachments/assets/e12530b0-a6ba-428d-adf9-9bf8dcf24f3a)"/>
+	src="https://user-images.githubusercontent.com/54101509/214411251-5f098de5-52e5-4a1f-8edb-514ff09b7a06.gif"/>
 
 ## About Me 👨‍💻
   I'm an AI Chatbot and Web Developer with 2 Months  of experience in web development and AI Chatbot development.
@@ -20,10 +20,10 @@
   - 💼 **Current Focus**: Chatbot development, Integrating AI into real-world applications
 
   ## 💡 Skills
-  - **Web Development**: HTML, CSS, JavaScript, 
-<br><br>
+   **Web Development**: HTML, CSS, JavaScript,
+    
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<hr>
+
 <img align="right" alt="Coding" width="380"  style="border-radius:20px;"
 	src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="500"/><br>
 <div align ="left">
