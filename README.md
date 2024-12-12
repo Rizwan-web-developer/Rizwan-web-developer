@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
-
+<br><br>
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
   <img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&size=32&pause=1000&color=C5FE00E6&random=false&width=940&center=true&lines=Hey%2C+I'm+Rizwan+and+Welcome+to+my+Coding+world!;I'm+a+Front+end+Developer+from+Pakistan!;I'm+a+Ai+Chatbot+Developer+from+Pakistan!" alt="Hey, I'm Rizwan and Welcome to my coding world! animated typed out" width="90%" align="middle"/>
@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center"> Proffesional frontend developer from Pakistan</h3>
+
 <img align="right" alt="Coding" width="350"  style="border-radius:20px;"
 	src="https://user-images.githubusercontent.com/54101509/214411251-5f098de5-52e5-4a1f-8edb-514ff09b7a06.gif"/>
 
