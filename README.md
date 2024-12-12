@@ -33,18 +33,18 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1500" />
 
 <img align="right" alt="Coding" width="380"  style="border-radius:20px;"
-	src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="500"/><br>
+	src="https://github.com/user-attachments/assets/319cb0e1-a883-47f2-856e-b11d597e65fb" width="500"/><br>
 <div align ="left">
 
 
 
-- 🔭 I’m currently working on **personal website**
+- 🔭 I’m currently working on **AI Chatbot**
 
 - 🌱 I’m currently learning **Java Script**
 
 - 📫 How to reach me **rk3113798@gmail.com**
 
-- ⚡ Fun fact **I Am Funny**
+- ⚡ Fun fact **I Am Strict**
 
 <h3 align="left">Connect with me:</h3>
 
