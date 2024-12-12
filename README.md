@@ -1,11 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
 <br><br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1500" />
+
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
   <img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&size=32&pause=1000&color=C5FE00E6&random=false&width=940&center=true&lines=Hey%2C+I'm+Rizwan+and+Welcome+to+my+Coding+world!;I'm+a+Front+end+Developer+from+Pakistan!;I'm+a+Ai+Chatbot+Developer+from+Pakistan!" alt="Hey, I'm Rizwan and Welcome to my coding world! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1500" />
 
 
 
@@ -27,7 +30,7 @@
   ## 💡 Skills
    **Web Development**: HTML, CSS, JavaScript,
     
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0151.gif" width="1500"  hight="5" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1500" />
 
 <img align="right" alt="Coding" width="380"  style="border-radius:20px;"
 	src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="500"/><br>
