@@ -10,6 +10,8 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1500" />
 
+<img align="center" alt="Coding" width="800"  style="border-radius:20px;"
+	src="https://github.com/user-attachments/assets/d2c6c721-a7ea-474a-aa7f-2dfb9035cca3"/>
 
 
 
@@ -24,6 +26,15 @@
 
 
  [![](https://visitcount.itsvg.in/api?id=Amanraza2311&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+ 
+
 
 
 ## About Me 👨‍💻
