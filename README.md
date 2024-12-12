@@ -66,6 +66,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwan-web-developer&show_icons=true&locale=en" alt="rizwan-web-developer" /></p>
 
 
+<div align="center">
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
+</div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1500" />
+  <br>
+  <br>
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanAhmed3000&theme=radical&langs_count=10&layout=compact" width="450px" alt="Most used languages">
+  </div>
+  <br>
+
+
+
+
+
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
