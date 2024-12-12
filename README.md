@@ -17,6 +17,15 @@
 <img align="right" alt="Coding" width="350"  style="border-radius:20px;"
 	src="https://user-images.githubusercontent.com/54101509/214411251-5f098de5-52e5-4a1f-8edb-514ff09b7a06.gif"/>
 
+
+
+
+
+
+
+ [![](https://visitcount.itsvg.in/api?id=Amanraza2311&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ## About Me 👨‍💻
   I'm an AI Chatbot and Web Developer with 2 Months  of experience in web development and AI Chatbot development.
 
