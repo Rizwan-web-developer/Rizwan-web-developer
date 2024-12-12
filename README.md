@@ -73,7 +73,7 @@
   <br>
   <br>
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanAhmed3000&theme=radical&langs_count=10&layout=compact" width="450px" alt="Most used languages">
+  <img src="https://github.com/user-attachments/assets/424798f7-5888-498d-8b77-367c67542b96" width="450px" alt="Most used languages">
   </div>
   <br>
 
