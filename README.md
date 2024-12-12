@@ -141,7 +141,21 @@
 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
 <hr>
 <br>
+
+
+
+
+
+
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1500" />
+
+<div align="center">
+  <h2>✉️ Contact</h2> <a href="https://www.linkedin.com/in/muhammad-rizwan-268909338/" target="_blank">
+    <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="48px" alt="LinkedIn"/></a> 
+	<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ </div>
+
