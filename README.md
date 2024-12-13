@@ -1,17 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
 <br><br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1500" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1500" />
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
   <img src="https://readme-typing-svg.demolab.com?font=Protest+Riot&size=32&pause=1000&color=0969DB&random=false&width=940&center=true&lines=Hey%2C+I'm+Rizwan+and+Welcome+to+my+Coding+world!;I'm+a+Front+end+Developer+from+Pakistan!;I'm+a+Ai+Chatbot+Developer+from+Pakistan!" alt="Hey, I'm Rizwan and Welcome to my coding world! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1500" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="1500" />
 
-<img align="center" alt="Coding" width="800"  style="border-radius:20px;"
-	src="https://github.com/user-attachments/assets/d2c6c721-a7ea-474a-aa7f-2dfb9035cca3"/>
 
 
 
